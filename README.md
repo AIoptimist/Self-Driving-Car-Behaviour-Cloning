@@ -1,5 +1,5 @@
 # Self-Driving-Car-Behaviour-Cloning
-Dataset captured in Udacity term-I v1 simulator in six laps, 3 laps in each direction of track to balance the data in terms of steering angle.
+Dataset captured with Udacity term-I v1 simulator in six laps, 3 laps in each direction of track to balance the data in terms of steering angle.
 
 # Model created based on NVIDIA research paper
 https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf
