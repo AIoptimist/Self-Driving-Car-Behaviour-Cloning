@@ -7,7 +7,6 @@ Dataset captured in Udacity term-I v1 simulator in six laps, 3 laps in each dire
 https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf
 
 ![NVIDIA model](nvidia_model.png)
-Format: ![Alt Text](url)
 
 # Declaration/ Credits:
 Udacity Simulator - https://github.com/udacity/self-driving-car-sim
